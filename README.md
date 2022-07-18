@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Demelphy
 - 👀 I’m interested in Java backend develop
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently learning with Udemy platform a lot of things
 
 <!---
 Demelphy/Demelphy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
